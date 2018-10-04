@@ -21,8 +21,8 @@ Clone this repository **Use master branch!**
 
 > - Run `npm install`.
 > - Navigate to `google-oauth-2.0` directory and run `node index.js`.
-> - The app runs on port **3000**.
-> - Open a web browser and navigate to http://localhost:3000/  
+> - The app runs on port **3002**.
+> - Open a web browser and navigate to http://localhost:3002/  
 
 
 

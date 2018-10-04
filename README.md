@@ -35,7 +35,9 @@ You can Sign In to the application using a Google account. The app will list the
 
 > - You have to allow access to this app when Signing In with Google.
 
+> **Blog:**
 
+> - https://medium.com/@ttcphilips/accessing-google-drive-api-using-oauth-2-0-nodejs-javascript-5283b694e5ba
 
 
 

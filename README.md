@@ -2,6 +2,8 @@ OAuth 2.0 + NodejS +  JavaScript +Google Drive API
 ===================
 
 This project is a demonstration of using Google Drive API to access files using NodeJS and JavaScript based on OAuth 2.0.
+OAuth 2 is an authorization framework that enables applications to obtain limited access to user accounts on an HTTP service.
+OAuth 2 provides authorization flows for web and desktop applications, and mobile devices.
 
 ----------
 
